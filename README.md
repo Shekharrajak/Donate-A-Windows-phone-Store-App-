@@ -25,5 +25,8 @@ I hope , this app will be very helpfull .. :) :) :) thank you ..
 
 Have any type of suggestions ,errors in idea comment fast ......
 
-
+Same information is in this link :
 http://action.devthon.org/posts/RnFPzcMuyCgxZy5dD
+
+
+A lots of work have to do here.Please fork ,if you like this project. 
